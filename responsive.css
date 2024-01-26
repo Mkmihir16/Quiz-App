@@ -1,0 +1,17 @@
+@media screen and (max-width:760px){
+    
+.container{
+    background-image: linear-gradient(to right top, #0b8766, #189870, #24a97b, #31bb85, #3fcd8e);
+    height: 3vh;
+    height: 40vh;
+    width:90vw;
+}
+.optbtn{
+    height: 3vh;
+    width: 70%;
+}
+.nxt{
+    height: 4vh;
+    width:40%;
+}
+}
